@@ -65,7 +65,7 @@
       });
     });
   //new script
- var SETTINGS = {
+  var SETTINGS = {
     navBarTravelling: false,
     navBarTravelDirection: "",
      navBarTravelDistance: 150
@@ -341,7 +341,7 @@ function determineOverflow(content, container) {
     }
 
     exports.reset = reset;
-})); 
+}));
   
   
   })(jQuery); // End of use strict
