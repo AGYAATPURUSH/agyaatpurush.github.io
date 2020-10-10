@@ -330,8 +330,8 @@
                             }, 0
                         );
                      }(dragged[i++]);
-                }
-            }
+                
+            
 
               
             if (_document.readyState == 'complete') {
