@@ -10265,8 +10265,8 @@ form .row:first-child .floating-label-form-group {
     font-weight: bold;
 }
 .mainpara {
-	margin-top: 10rem;
-    margin-left: 5rem;
-    margin-right: 5rem;
-   margin-bottom: 10rem;
+	margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+   margin-bottom: 10%;
 }
