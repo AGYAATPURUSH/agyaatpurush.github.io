@@ -10261,7 +10261,7 @@ form .row:first-child .floating-label-form-group {
 .heading-new {
 	background-color: aquamarine;
     text-align: center;
-    font-size: xx-large;
+    font-size: larger;
     font-weight: bold;
 }
 .mainpara {
