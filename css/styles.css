@@ -10388,3 +10388,13 @@ form .row:first-child .floating-label-form-group {
           transition: transform .2s ease-in-out, background-color .2s ease-in-out;
           transition: transform .2s ease-in-out, background-color .2s ease-in-out, -webkit-transform .2s ease-in-out;
         }
+		
+		.scrolling-wrapper {
+  overflow-x: scroll;
+  overflow-y: hidden;
+		white-space: nowrap;}
+
+  .card {
+    display: inline-block;
+  }
+}
