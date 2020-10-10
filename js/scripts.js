@@ -287,7 +287,7 @@
                 factory(exports);
             } else {
                 factory((root.dragscroll = {}));
-            }
+            } 
         }(this, function (exports) {
             var _window = window;
             var _document = document;
